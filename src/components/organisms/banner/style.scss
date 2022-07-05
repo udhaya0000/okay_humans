@@ -1,0 +1,17 @@
+.main-banner {
+  background-color: $primary;
+  background-image: url('../../../assets/svg/color-bar.svg');
+  background-repeat: repeat-x;
+  background-position: center bottom;
+
+  &__content {
+    height: 100vh;
+    position: relative;
+  
+  }
+
+  .scroll-btn {
+    position: absolute;
+    bottom: 20px;
+  }
+}

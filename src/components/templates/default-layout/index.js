@@ -1,5 +1,7 @@
 import PropTypes from "prop-types";
-import { Header, Footer } from "@components/organisms";
+import Header from "@components/organisms/header";
+import Footer from "@components/organisms/footer";
+
 const propTypes = {
   hasFooter: PropTypes.bool,
 };

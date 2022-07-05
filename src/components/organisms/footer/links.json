@@ -1,0 +1,65 @@
+{
+  "link_list_1": [
+    {
+      "label": "How it works",
+      "url": "/how-it-works"
+    },
+    {
+      "label": "Meet our therapists",
+      "url": "/meet-our-therapists"
+    },
+    {
+      "label": "Pricing",
+      "url": "/pricing"
+    },
+    {
+      "label": "Press",
+      "url": "/press"
+    },
+    {
+      "label": "Give a gift",
+      "url": "/give-a-gift"
+    }
+  ],
+  "link_list_2": [
+    {
+      "label": "About Us",
+      "url": "/about-us"
+    },
+    {
+      "label": "Careers",
+      "url": "/careers"
+    },
+    {
+      "label": "Locations",
+      "url": "locations"
+    },
+    {
+      "label": "Franchise",
+      "url": "/franchise"
+    },
+    {
+      "label": "Philanthropy",
+      "url": "/pilanthropy"
+    }
+  ],
+  "link_list_3": [
+    {
+      "label": "Help",
+      "url": "/help"
+    },
+    {
+      "label": "1-855-651-1580",
+      "url": "1-855-651-1580",
+      "tel": true
+    },
+    {
+      "label": "Terms of use",
+      "url": "/terms-of-use"
+    },
+    {
+      "label": "Privacy Policy",
+      "url": "/privacy-policy"
+    }
+  ]
+}

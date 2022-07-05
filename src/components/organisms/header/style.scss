@@ -1,0 +1,22 @@
+.main-header {
+  background: $primary;
+  padding: 18px 0;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 100;
+
+  .link__book {
+    color: #fff;
+    font-size: 18px;
+    font-family: $font-family-2;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 2.5px;
+  }
+
+  .header__right {
+    font-size: 32px;
+  }
+}

@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('BrandonGrotesque-Medium.woff2') format('woff2'),
+        url('BrandonGrotesque-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sofia Pro';
+    src: url('SofiaPro-Bold.woff2') format('woff2'),
+        url('SofiaPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sofia Pro';
+    src: url('SofiaPro-Light.woff2') format('woff2'),
+        url('SofiaPro-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('BrandonGrotesque-Regular.woff2') format('woff2'),
+        url('BrandonGrotesque-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('BrandonGrotesque-Bold.woff2') format('woff2'),
+        url('BrandonGrotesque-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Palmer Lake Print';
+    src: url('PalmerLakePrint-Regular.woff2') format('woff2'),
+        url('PalmerLakePrint-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sofia Pro';
+    src: url('SofiaPro-Medium.woff2') format('woff2'),
+        url('SofiaPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sofia Pro';
+    src: url('SofiaPro-Regular.woff2') format('woff2'),
+        url('SofiaPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="601px" height="260px" viewBox="0 0 601 260" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bring-Your-Baggage@2x</title>
+    <defs>
+        <polygon id="path-1" points="0 69.8176957 70.5878913 69.8176957 70.5878913 2.45273636e-15 0 2.45273636e-15"></polygon>
+        <polygon id="path-3" points="0 69.8176957 70.5878913 69.8176957 70.5878913 2.45273636e-15 0 2.45273636e-15"></polygon>
+        <polygon id="path-5" points="0 69.8176957 70.5878913 69.8176957 70.5878913 2.45273636e-15 0 2.45273636e-15"></polygon>
+        <polygon id="path-7" points="0 69.8176957 70.5878913 69.8176957 70.5878913 2.45273636e-15 0 2.45273636e-15"></polygon>
+    </defs>
+    <g id="Test" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Franchise---1" transform="translate(-393.000000, -100.000000)">
+            <g id="Block-1" transform="translate(0.000000, 47.000000)">
+                <g id="Bring-Your-Baggage" transform="translate(393.116924, 53.879883)">
+                    <g id="bring-y-ur-baggage" fill-rule="nonzero" font-family="Raleway-Bold, Raleway" font-size="120" font-weight="bold">
+                        <text id="b" fill="#E7E1D9">
+                            <tspan x="0" y="113">b</tspan>
+                        </text>
+                        <text id="r" fill="#EDCFCC">
+                            <tspan x="77.033846" y="113">r</tspan>
+                        </text>
+                        <text id="i" fill="#A6C3D2">
+                            <tspan x="123.587692" y="113">i</tspan>
+                        </text>
+                        <text id="n" fill="#CADBE4">
+                            <tspan x="154.301538" y="113">n</tspan>
+                        </text>
+                        <text id="g" fill="#E9E1D7">
+                            <tspan x="227.615384" y="113">g</tspan>
+                        </text>
+                        <text id="y" fill="#EDCFCC">
+                            <tspan x="332.843076" y="113">y</tspan>
+                        </text>
+                        <text id="u" fill="#A6C3D2">
+                            <tspan x="478.97846" y="113">u</tspan>
+                        </text>
+                        <text id="r" fill="#E7E1D9">
+                            <tspan x="553.732306" y="113">r</tspan>
+                        </text>
+                        <text id="b" fill="#EDCFCC">
+                            <tspan x="40.004615" y="231">b</tspan>
+                        </text>
+                        <text id="a" fill="#9FC4D4">
+                            <tspan x="117.038461" y="231">a</tspan>
+                        </text>
+                        <text id="g" fill="#CADBE4">
+                            <tspan x="186.392307" y="231">g</tspan>
+                        </text>
+                        <text id="g" fill="#E9E1D7">
+                            <tspan x="263.546153" y="231">g</tspan>
+                        </text>
+                        <text id="a" fill="#EDCFCC">
+                            <tspan x="340.699999" y="231">a</tspan>
+                        </text>
+                        <text id="g" fill="#A6C3D2">
+                            <tspan x="410.053845" y="231">g</tspan>
+                        </text>
+                        <text id="e" fill="#E7E1D9">
+                            <tspan x="487.207691" y="231">e</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-10" transform="translate(402.883076, 44.620272)">
+                        <path d="M35.2122957,69.777874 C58.6608174,68.6202653 66.8937304,62.8275914 70.3758174,34.8890914 C72.7589478,15.7653957 54.6323391,0.000308695652 35.2122957,0.000308695652 C15.7922522,0.000308695652 -1.03011739,8.23322174 0.0503173913,34.8890914 C0.829773913,54.1424392 15.8169478,70.733287 35.2122957,69.777874" id="Fill-1" fill="#CDDBE3" fill-rule="nonzero"></path>
+                        <path d="M16.9768717,32.4480805 C15.4982196,32.4480805 14.4301326,31.701037 14.4301326,30.281037 C14.4301326,28.8440587 15.4982196,28.11245 16.9768717,28.11245 C18.4570674,28.11245 19.5251543,28.8440587 19.5251543,30.281037 C19.5251543,31.701037 18.4570674,32.4480805 16.9768717,32.4480805 M16.9768717,25.9021892 C13.7124152,25.9021892 11.6626761,27.5567979 11.6626761,30.281037 C11.6626761,32.9898414 13.7124152,34.6722327 16.9768717,34.6722327 C20.227437,34.6722327 22.280263,32.9898414 22.280263,30.281037 C22.280263,27.5567979 20.227437,25.9021892 16.9768717,25.9021892" id="Fill-3" fill="#1D344A" fill-rule="nonzero"></path>
+                        <g id="Fill-5-Clipped">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="path-57"></g>
+                            <polygon id="Fill-5" fill="#1D344A" fill-rule="nonzero" mask="url(#mask-2)" points="25.8301087 31.027 46.0326957 31.027 46.0326957 28.7565435 25.8301087 28.7565435"></polygon>
+                        </g>
+                        <g id="Fill-7-Clipped">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="path-57"></g>
+                            <path d="M56.5842217,25.9304348 C55.1348957,25.9304348 53.9325261,26.5015218 53.2456783,27.5109566 L53.2456783,26.3996522 L53.2456783,21.5531305 L50.3609174,21.5531305 L50.3609174,26.2221522 L50.3609174,34.3362174 L53.2456783,34.3362174 L53.2456783,29.5329131 C53.8599826,28.5358261 54.681113,28.083587 55.6318957,28.083587 C56.7308522,28.083587 57.3297217,28.6978914 57.3297217,29.7536305 L57.3297217,34.3362174 L60.2160261,34.3362174 L60.2160261,29.5637827 C60.2160261,27.4399566 58.941113,25.9304348 56.5842217,25.9304348" id="Fill-7" fill="#1D344A" fill-rule="nonzero" mask="url(#mask-4)"></path>
+                        </g>
+                        <g id="Fill-8-Clipped">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <g id="path-57"></g>
+                            <polygon id="Fill-8" fill="#1D344A" fill-rule="nonzero" mask="url(#mask-6)" points="30.6828043 54.0039892 29.9434783 52.2336196 41.5596957 47.3963587 42.2959348 49.1667283"></polygon>
+                        </g>
+                        <g id="Stroke-9-Clipped">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <g id="path-57"></g>
+                            <polygon id="Stroke-9" stroke="#1D344A" stroke-width="0.5" mask="url(#mask-8)" points="30.6828043 54.0039892 29.9434783 52.2336196 41.5596957 47.3963587 42.2959348 49.1667283"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="12px" viewBox="0 0 1440 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Color-Bar</title>
+    <g id="Test" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Franchise---1" transform="translate(0.000000, -638.000000)" fill-rule="nonzero">
+            <g id="Block-1" transform="translate(0.000000, 47.000000)">
+                <g id="Color-Bar" transform="translate(0.000000, 591.000000)">
+                    <rect id="Rectangle" fill="#CDDBE3" x="0" y="0" width="144" height="12"></rect>
+                    <rect id="Rectangle" fill="#CDDBE3" x="575" y="0" width="144" height="12"></rect>
+                    <rect id="Rectangle" fill="#E7E1D9" x="144" y="0" width="144" height="12"></rect>
+                    <rect id="Rectangle" fill="#E8D0CD" x="288" y="0" width="144" height="12"></rect>
+                    <rect id="Rectangle" fill="#A6C3D2" x="432" y="0" width="144" height="12"></rect>
+                    <rect id="Rectangle" fill="#E7E1D9" x="719" y="0" width="144" height="12"></rect>
+                    <rect id="Rectangle" fill="#E8D0CD" x="862" y="0" width="146" height="12"></rect>
+                    <rect id="Rectangle" fill="#A6C3D2" x="1008" y="0" width="144" height="12"></rect>
+                    <rect id="Rectangle" fill="#CDDBE3" x="1152" y="0" width="144" height="12"></rect>
+                    <rect id="Rectangle" fill="#E7E1D9" x="1296" y="0" width="144" height="12"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
