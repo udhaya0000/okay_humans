@@ -9,7 +9,7 @@ $gray-300: #dfe3e8;
 $gray-400: #9796b1;
 $gray-500: #6f6f90;
 $gray-600: #6d6d86;
-$gray-700: #585a83;
+$gray-700: rgb(47, 96, 121);
 $gray-800: #3d4279;
 
 $body-color: $gray-700;
@@ -20,7 +20,7 @@ $light: $gray-400;
 $border-color: #e6e6e6;
 $hr-border-color: #e6e6e6;
 
-$font-size-base: 0.875rem; // 14px
+$font-size-base: 1rem; // 14px
 $font-size-lg: 1rem; // 16px
 $font-size-sm: 0.75rem; // 12px
 
@@ -47,7 +47,7 @@ $input-font-weight: $font-weight-normal;
 $input-border-color: $border-color;
 
 $input-btn-font-size-sm: 0.75rem;
-$input-btn-font-size: 0.875rem;
+$input-btn-font-size: 1.15rem;
 
 $line-height-base: 1.25;
 $line-height-lg: 1.25;

@@ -78,12 +78,6 @@ $mwidth: (200, 240, 300, 400, 600, 800, 850, 900, 960, 1280);
   font-size: 10px;
 }
 
-.heading-4 {
-  font-family: Fredoka, sans-serif;
-  font-size: 24px;
-  font-weight: $font-weight-semibold;
-}
-
 h1,
 h2,
 h3,
@@ -109,21 +103,6 @@ h6 {
   background-color: var(--bkg-shade) !important;
 }
 
-.text-subtext {
-  color: var(--text-subtext);
-}
-
-.text-subtext_light {
-  color: var(--text-subtext_light);
-}
-
-.mh-75v {
-  max-height: 75vh;
-}
-
-.minh-120 {
-  min-height: 120px;
-}
 
 .or__divider {
   display: flex;
@@ -161,25 +140,6 @@ h6 {
   transition: transform 0.25s;
 }
 
-.note {
-  max-width: 600px;
-  padding: 20px 28px;
-  border-radius: 6px;
-  color: rgba(111, 111, 144, 0.59);
-  font-size: 13px;
-  line-height: 1.3rem;
-}
-
-.note.note--clear {
-  background: unset !important;
-  color: $body-color;
-
-  @include media-breakpoint-down(sm) {
-    padding-left: 0;
-    padding-right: 0;
-  }
-}
-
 .bg-purple {
   background: #a976f0;
 }
@@ -190,15 +150,6 @@ h6 {
     color: #00000040;
     font-weight: $font-weight-base;
     font-size: 14px;
-  }
-}
-
-.products-detial-footer {
-  @include media-breakpoint-down(sm) {
-    display: block;
-    .btn {
-      width: 100%;
-    }
   }
 }
 
@@ -220,10 +171,6 @@ h6 {
   @include media-breakpoint-up(sm) {
     border-right: 1px solid $border-color;
   }
-}
-
-.bg-enterprise {
-  background-color: #10db65;
 }
 
 .rounded-4 {
