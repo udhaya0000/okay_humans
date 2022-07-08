@@ -1,5 +1,4 @@
 import React from "react";
-import { Button, Container, Col, Row } from "react-bootstrap";
 
 import IconButton from "@components/molecules/icon-button";
 import FooterLinks from "@components/molecules/footer-links";
