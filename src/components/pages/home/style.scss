@@ -7,7 +7,7 @@
   font-size: 50px;
   font-family: $font-family-3;
   font-weight: 700;
-  text-shadow: 2px 2px 0 #fff, 3px 4px 0 $secondary ;
+  text-shadow: 2px 2px 0 #fff, 3px 4px 0 $secondary;
 }
 
 .storefront-section {
@@ -20,7 +20,7 @@
 
 .section-alt {
   padding: 50px 0;
-  background: #F9F6F4;
+  background: #f9f6f4;
   @include media-breakpoint-down(sm) {
     padding: 40px 20px;
   }
@@ -31,7 +31,8 @@
   padding-top: 87%;
   width: 100%;
   &:before {
-    background: url('../../../assets/svg/path-2-blue.svg') no-repeat bottom right / contain;
+    background: url("../../../assets/svg/path-2-blue.svg") no-repeat bottom
+      right / contain;
     position: absolute;
     top: 6px;
     left: 10px;
@@ -58,15 +59,16 @@
 .img-content__2 {
   .img-wrap__inner {
     &:before {
-      background: url('../../../assets/svg/path-2.svg') no-repeat bottom right / contain;     
+      background: url("../../../assets/svg/path-2.svg") no-repeat bottom right /
+        contain;
     }
   }
 }
 
 .content-wrap {
-    line-height: 1.6;
-    padding-right: 25px;
-    max-width: 60%;
+  line-height: 1.6;
+  padding-right: 25px;
+  max-width: 60%;
 }
 
 .img-wrap {
@@ -84,7 +86,7 @@
   .content-wrap {
     max-width: 100%;
     text-align: center;
-    padding-right: 0
+    padding-right: 0;
   }
 
   .img-wrap {
@@ -97,4 +99,44 @@
   font-size: 36px;
   letter-spacing: 0.9px;
   font-family: "Palmer Lake Print";
+}
+
+.op-list {
+  counter-reset: number;
+
+  li {
+    font-size: 18px;
+    line-height: 1.35;
+    padding: 0 0 20px 40px;
+    position: relative;
+
+    &:before {
+      position: absolute;
+      top: 3px;
+      left: 0;
+      width: 24px;
+      height: 21px;
+      background: url(../../../assets/svg/blob.svg) no-repeat
+        center / cover;
+      counter-increment: number;
+      content: counter(number) " ";
+      line-height: 18px;
+      color: #fff;
+      text-align: center;
+      font-size: 14px;
+      font-weight: 600;
+    }
+  }
+
+  &-2 {
+    counter-reset: number + 5;
+  }
+}
+
+.room-img-wrap {
+  min-width: 250px;
+}
+
+.section-white {
+  padding: 40px 0 70px;
 }

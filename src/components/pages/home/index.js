@@ -1,11 +1,15 @@
-import { Container, Row, Col, Button } from "react-bootstrap";
+import { Container, Button } from "react-bootstrap";
 
 import DefaultLayout from "@templates/default-layout";
 import Banner from "@organisms/banner";
-import StorefrontImg from "@assets/images/storefront.png";
-import christy from "@assets/images/christy.png";
-import team from "@assets/images/team.png";
 import HowItWorks from "@organisms/how-it-works";
+import Design from "@organisms/design";
+import OperatingPartner from "@organisms/operating-partner";
+import Training from "@organisms/training";
+
+import storefrontImg from "@assets/images/storefront.png";
+import christyImg from "@assets/images/christy.png";
+import teamImg from "@assets/images/team.png";
 
 import "./style.scss";
 
@@ -21,7 +25,7 @@ const Home = () => {
           </div>
           <div className="mb-4">
             <img
-              src={StorefrontImg}
+              src={storefrontImg}
               alt=""
               className="storefront-img img-fluid"
             />
@@ -73,7 +77,7 @@ const Home = () => {
               <div className="img-wrap">
                 <div className="img-wrap__inner d-inline-block">
                   <div>
-                    <img src={christy} className="rounded" alt="" />
+                    <img src={christyImg} className="rounded" alt="" />
                   </div>
                 </div>
               </div>
@@ -96,18 +100,27 @@ const Home = () => {
               <div className="img-wrap">
                 <div className="img-wrap__inner d-inline-block">
                   <div>
-                    <img src={team} className="rounded" alt="" />
+                    <img src={teamImg} className="rounded" alt="" />
                   </div>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="join-text mt-5 mb-5 text-center lh-1">We’re excited you’re interested in joining us help others!</div>
+          <div className="join-text mt-5 mb-5 text-center lh-1">
+            We’re excited you’re interested in joining us help others!
+          </div>
         </div>
       </section>
 
       <HowItWorks />
+
+      <OperatingPartner />
+
+      <Design />
+
+      <Training />
+     
     </DefaultLayout>
   );
 };
