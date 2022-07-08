@@ -12,6 +12,7 @@ import christyImg from "@assets/images/christy.png";
 import teamImg from "@assets/images/team.png";
 
 import "./style.scss";
+import Signup from "../../organisms/signup";
 
 const Home = () => {
   return (
@@ -120,7 +121,8 @@ const Home = () => {
       <Design />
 
       <Training />
-     
+
+      <Signup />
     </DefaultLayout>
   );
 };

@@ -1,0 +1,19 @@
+.form-wrap {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: 1fr 1fr;
+    align-items: flex-end;
+}
+
+.fileds-wrap {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: 1fr 1fr;
+    align-items: flex-end;
+}
+
+@include media-breakpoint-down(sm) {
+    .fileds-wrap, .form-wrap {
+        grid-template-columns: 1fr;
+    }
+}
