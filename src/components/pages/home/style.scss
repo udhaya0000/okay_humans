@@ -31,7 +31,7 @@
   padding-top: 87%;
   width: 100%;
   &:before {
-    background: url("../../../assets/svg/path-2-blue.svg") no-repeat bottom
+    background: url(../../../assets/svg/path-2-blue.svg) no-repeat bottom
       right / contain;
     position: absolute;
     top: 6px;
@@ -59,7 +59,7 @@
 .img-content__2 {
   .img-wrap__inner {
     &:before {
-      background: url("../../../assets/svg/path-2.svg") no-repeat bottom right /
+      background: url(../../../assets/svg/path-2.svg) no-repeat bottom right /
         contain;
     }
   }
